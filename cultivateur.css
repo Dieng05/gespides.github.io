@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+@charset "ISO-8859-1";
+.ui-field-contain{
+	position:relative;
+	left:50%;
+	width:85%;
+}
+
+.ui-corner-all{
+	width:30%;
+}
+
+input{
+	position:relative;
+	left :10%;
+}
+li{
+	background-color:black;
+}
+#btn2{
+	cursor: auto;
+	font-size:15px;
+	background-color: #008CBA;
+	font-size:16px;	
+}
+#heading-1{
+	width:90%;
+	background-color:blue;
+	font-size:35px;
+	text-align:center;
+	position:relative;
+	left:2%;
+}
+#btn1{
+	cursor: auto;
+	font-size:15px;
+	background-color: #008CBA;
+	font-size:16px;	
+}
+body{
+background-color:white;
+}
+.cont{
+	position:relative;
+	width:60%;
+	left:20%;
+	background-color:white;
+	display:flex;
+}
+.img{
+	height:75%;
+}
